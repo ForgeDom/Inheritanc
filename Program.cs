@@ -1,4 +1,6 @@
-﻿namespace Inheritanc
+﻿using Inheritanc.Classes;
+
+namespace Inheritanc
 {
     internal class Program
     {
